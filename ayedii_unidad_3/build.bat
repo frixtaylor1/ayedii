@@ -1,0 +1,1 @@
+g++ -o program.exe main.cpp .\src\*.cpp
